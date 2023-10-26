@@ -11,7 +11,7 @@ Familiar with a diverse set of programming languages.
 [![Languages](https://skillicons.dev/icons?i=python,js,java,ruby,r,html,css,mysql,bash)](https://skillicons.dev)
 
 #### **Technologies & Frameworks**
-Experienced in using modern frameworks and technologies.
+Experience using modern frameworks and technologies.
 <br>
 [![Technologies](https://skillicons.dev/icons?i=flask,django,mongodb,nginx,postgres,github)](https://skillicons.dev)
 
