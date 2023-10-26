@@ -1,16 +1,19 @@
-### Hi there 👋
+# ConorMcElduff
 
-<!--
-**cmcelduff/cmcelduff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your Text Here](https://img.shields.io/badge/-MsC%20Computer%20Science-lightgray)
 
-Here are some ideas to get you started:
+---
+### **Technical Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Programming Languages**
+Familiar with a diverse set of programming languages.
+<br>
+[![Languages](https://skillicons.dev/icons?i=python,js,java,ruby,r,html,css,mysql,bash)](https://skillicons.dev)
+
+#### **Technologies & Frameworks**
+Experienced in using modern frameworks and technologies.
+<br>
+[![Technologies](https://skillicons.dev/icons?i=flask,django,mongodb,nginx,postgres,github)](https://skillicons.dev)
+
+---
+
