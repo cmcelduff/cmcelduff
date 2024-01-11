@@ -1,6 +1,6 @@
 # ConorMcElduff
 
-![Your Text Here](https://img.shields.io/badge/-MsC%20Computer%20Science-lightgray)
+![Your Text Here](https://img.shields.io/badge/-MSc%20Computer%20Science-lightgray)
 
 ---
 ### **Technical Skills**
